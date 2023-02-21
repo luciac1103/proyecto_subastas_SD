@@ -1,0 +1,6 @@
+view\VistaCliente.class
+services\ClienteServices$1.class
+view\FormCliente$1.class
+services\ClienteServices.class
+models\Cliente.class
+view\FormCliente.class
